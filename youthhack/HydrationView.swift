@@ -16,7 +16,7 @@ struct HydrationView: View {
                Color.cyan.opacity(0.2).ignoresSafeArea()
                
                VStack(spacing: 40) {
-                   Text("Help Octoo stay hydrated 💧")
+                   Text("Help Octoo stay hydrated💧")
                        .font(.title2)
                        .bold()
                    
